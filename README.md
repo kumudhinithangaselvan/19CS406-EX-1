@@ -7,7 +7,7 @@
 # AIM :
 ## To implement socket programming date and time display from client to server using TCPSockets
 # ALGORITHM :
-## SERVER:
+## SERVER PROGRAM:
 ## 1. Create a server socket and bind it to port.
 ## 2. Listen for new connection and when a connection arrives, accept it.
 ## 3. Send server‟s date and time to the client.
