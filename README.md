@@ -6,6 +6,7 @@
 
 # AIM :
 ## To implement socket programming date and time display from client to server using TCPSockets
+
 # ALGORITHM :
 ## SERVER PROGRAM:
 ## 1. Create a server socket and bind it to port.
@@ -27,6 +28,7 @@
 ## 5. Close the input and output streams.
 ## 6. Close the client socket.
 ## 7. Stop.
+
 # CLIENT PROGRAM :
 ```PYTHON 3
 import socket
@@ -64,4 +66,4 @@ while True:
 
 # RESULT:
 ## Thus, the program to implement socket programming date and time display from client to server
-using TCP Sockets was successfully executed
+using TCP Sockets was successfully executed ##
