@@ -65,5 +65,5 @@ while True:
 
 
 # RESULT:
-## Thus, the program to implement socket programming date and time display from client to server
-using TCP Sockets was successfully executed ##
+## Thus, the program to implement socket programming date and time display from client to server using TCP Sockets was successfully executed 
+
